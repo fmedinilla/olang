@@ -53,6 +53,8 @@ Rules:
 2. The file must end with empty line.
 3. All instruction must be writen in uppercase.
 
+[File example in olang](hola.ol)
+
 **Example**
 
 ```olang
